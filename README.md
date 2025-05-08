@@ -157,9 +157,7 @@ IDE - Semantic - Shortcuts are shortcuts that have semantic meaning which can he
 
   rollback → R
 
-  pull → P
-
-  push → alt + p
+  push → p
 
   fetch → F
 
@@ -192,6 +190,8 @@ IDE - Semantic - Shortcuts are shortcuts that have semantic meaning which can he
   debug → d
 
   stop → s
+
+  edit configuration -> c
 
   reun test → t
 
